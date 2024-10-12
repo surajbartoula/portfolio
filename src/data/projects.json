@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AI Social app",
+    "imageSrc": "projects/project.png",
+    "description": "This project is about using AI to create image or video based on client needs.",
+    "skills": ["React", "Clerk", "Next js"],
+    "demo": "https://github.com/AllanRye9/Social-AI-Web-App-.git",
+    "source": "https://github.com/AllanRye9/Social-AI-Web-App-.git"
+  },
+  {
+    "title": "Minishell",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to mimick bash shell. It is a project made to learn system programming.",
+    "skills": ["C programming", "System programming"],
+    "demo": "https://github.com/AllanRye9/minishell_42.git",
+    "source": "https://github.com/AllanRye9/minishell_42.git"
+  },
+  {
+    "title": "So Long",
+    "imageSrc": "projects/project.png",
+    "description": "This is a small 2d game made using minilibx. It is a project made to learn graphics programming.",
+    "skills": ["C programming", "MiniLibx graphic library", "Game development"],
+    "demo": "https://github.com/surajbartoula/so_long.git",
+    "source": "https://github.com/surajbartoula/so_long.git"
+  }
+]

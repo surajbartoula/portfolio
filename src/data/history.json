@@ -1,0 +1,21 @@
+[
+  {
+    "role": "42 Abu Dhabi Student",
+    "organisation": "42 Abu Dhabi",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on minishell", "Developed a simple game using minLibX, Worked on mini Ray tracking."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Completed I.Sc.",
+    "organisation": "Kathmandu University",
+    "startDate": "March, 2009",
+    "endDate": "March, 2010",
+    "experiences": [
+      "Worked on C++ projects",
+      "Developed a simple game"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
