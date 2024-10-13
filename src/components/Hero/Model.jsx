@@ -3,7 +3,7 @@ import { useGLTF, useAnimations } from '@react-three/drei'
 
 export function Model(props) {
   const group = useRef()
-  const { nodes, materials, animations } = useGLTF("/heroImage.glb")
+  const { nodes, materials, animations } = useGLTF('/portfolio/heroImage.glb')
   const { actions } = useAnimations(animations, group)
   useEffect(() => {
     // Play the default animation when the component mounts
@@ -842,4 +842,4 @@ export function Model(props) {
     </group>
   )
 }
-
+useGLTF.preload('/portfolio/heroImage.glb')
