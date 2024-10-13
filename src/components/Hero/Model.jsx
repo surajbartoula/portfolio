@@ -3,7 +3,7 @@ import { useGLTF, useAnimations } from '@react-three/drei'
 
 export function Model(props) {
   const group = useRef()
-  const { nodes, materials, animations } = useGLTF(`${import.meta.env.VITE_ASSET_BASE_URL}/heroImage.glb`)
+  const { nodes, materials, animations } = useGLTF("/heroImage.glb")
   const { actions } = useAnimations(animations, group)
   useEffect(() => {
     // Play the default animation when the component mounts
@@ -843,4 +843,3 @@ export function Model(props) {
   )
 }
 
-useGLTF.preload(`${import.meta.env.VITE_ASSET_BASE_URL}/heroImage.glb`)
