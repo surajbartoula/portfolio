@@ -1,25 +1,25 @@
 [
   {
-    "title": "AI Social app",
+    "title": "Banking Alert System",
+    "imageSrc": "projects/project.png",
+    "description": "FastAPI based microservice API to parse and extract banking transactions from PDF statements, applying OCR and NLP for accurate data extraction.",
+    "skills": ["FastAPI", "SQLite", "Flutter", "Python"],
+    "demo": "https://github.com/surajbartoula/wio-bank-challenge",
+    "source": "https://github.com/surajbartoula/wio-bank-challenge"
+  },
+  {
+    "title": "ft_transcendence",
+    "imageSrc": "projects/project.png",
+    "description": "Full-stack real-time web application built from scratch, featuring multiplayer gameplay, authentication, and chat using modern web technologies.",
+    "skills": ["Typescript", "Fastify", "Tailwind CSS"],
+    "demo": "https://github.com/surajbartoula/ft_transcendence",
+    "source": "https://github.com/surajbartoula/ft_transcendence"
+  },
+  {
+    "title": "AI based app to create, enhance or personalize any type of contect (text, images, videos, interactive media, or anything else).",
     "imageSrc": "projects/project.png",
     "description": "This project is about using AI to create image or video based on client needs.",
-    "skills": ["React", "Clerk", "Next js"],
-    "demo": "https://github.com/AllanRye9/Social-AI-Web-App-.git",
-    "source": "https://github.com/AllanRye9/Social-AI-Web-App-.git"
-  },
-  {
-    "title": "Minishell",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to mimick bash shell. It is a project made to learn system programming.",
-    "skills": ["C programming", "System programming"],
-    "demo": "https://github.com/AllanRye9/minishell_42.git",
-    "source": "https://github.com/AllanRye9/minishell_42.git"
-  },
-  {
-    "title": "So Long",
-    "imageSrc": "projects/project.png",
-    "description": "This is a small 2d game made using minilibx. It is a project made to learn graphics programming.",
-    "skills": ["C programming", "MiniLibx graphic library", "Game development"],
+    "skills": ["React", "Next.js", "Gemini API"],
     "demo": "https://github.com/surajbartoula/so_long.git",
     "source": "https://github.com/surajbartoula/so_long.git"
   }

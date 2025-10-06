@@ -1,5 +1,17 @@
 [
   {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/JavaScript.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/Typescript.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -14,17 +26,5 @@
   {
     "title": "Node",
     "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "C Programming",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "C++",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 ]

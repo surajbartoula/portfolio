@@ -10,7 +10,7 @@ export const Hero = () => {
 		<div className={styles.content}>
 		  <h1 className={styles.title}>Hi, I'm Suraj Bartoula</h1>
 		  <p className={styles.description}>
-			Proficient in C, C++ and web development with React.
+			Proficient in C#, JavaScript, and TypeScript, leveraging frameworks such as ASP.NET Core, React, and Node.js to build high-performance, maintainable applications.
 		  </p>
 		  <a href="mailto:suraj_bartoula@yahoo.com" className={styles.contactBtn}>
 			Contact Me

@@ -17,27 +17,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>42 Abu Dhabi Student</h3>
+              <h3>Backend Developer</h3>
               <p>
-				Currently studying at 42 Abu Dhabi, a software engineering school that offers a unique curriculum based on peer-to-peer learning and project-based work. I have experience in C, C++, and web development with React.
+				Experienced in  building scalable, high-performance APIs and services using .NET and Fastify. Skilled in designing RESTful endpoints, integrating SQL & NoSQL databases and implementing middleware, security and performance optimizations. Proficient in optimizing server-side logic for performance and security, with experience in Docker and cloud deployment.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Full-stack Developer</h3>
+              <h3>Specialized in .NET ecosystem</h3>
               <p>
-			  All-rounder software engineer with expertise in full-stack development. I specialize in building end-to-end web applications, integrating both front-end and back-end technologies seamlessly.
+			  	I’m a software engineer specialized in the .NET ecosystem, with experience building scalable web applications using ASP.NET Core, Entity Framework, and modern frontend frameworks.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Expert in C and C++</h3>
+              <h3>Expert in C#, Javascript, Typescript and browser-based application development</h3>
               <p>
-				Since I am using C and C++ for my multiple projects in 42 Abu Dhabi, I have become an expert in these languages. I have also worked on various projects using these languages.
+  				With strong expertise in JavaScript and TypeScript, I develop responsive, type-safe interfaces and integrate them seamlessly with backend APIs. My experience includes implementing real-time features with SignalR, managing data with Entity Framework Core, and following clean architecture principles to ensure maintainability and performance.
               </p>
             </div>
           </li>
